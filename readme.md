@@ -22,7 +22,7 @@
 1. HTTP与HTTPS都属于应用层协议，所以只要我们在底层协议中进行反向代理，
 就可以解决这个问题! 因此我们可以选择底层的tcp服务进行代理！
 2. https数据流的第一位是十六进制“16”，转换成十进制就是22
-3. 通过数据流的第一位置，决定最终反向代理给http\https服务
+3. 通过数据流的第一位置，决定最终反向代理给http\https服务
 4. 具体实现方案有如下三种
 ```
 * [http和https 共用端口方案一](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2001/proxy.js)
