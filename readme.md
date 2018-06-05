@@ -14,7 +14,7 @@
     3. master收到socket后，以负载均衡的方式通过child注册的channel把socket发送给child 进程
     4. child 进程收到socket后，自然就可以和客户端随心所欲的恋爱了，哈哈
 ```
-* [从Node.Js源码一步步分析，cluster 多次fork一份代码时，如何实现端口重用](https://github.com/lvgithub/blog/blob/master/cluster.md)
+[从Node.Js源码一步步分析，cluster 多次fork一份代码时，如何实现端口重用](https://github.com/lvgithub/blog/blob/master/cluster.md)
 
 
 #### 3.实现http和https共用一个端口原理
@@ -25,11 +25,15 @@
 3. 通过数据流的第一位置，决定最终反向代理给http\https服务
 4. 具体实现方案有如下三种
 ```
-* [http和https 共用端口方案一](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2001/proxy.js)
+[http和https 共用端口方案一](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2001/proxy.js)
+[http和https 共用端口方案二](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2002/proxy.js)
+[http和https 共用端口方案三](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2003/proxy.js)
 
-* [http和https 共用端口方案二](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2002/proxy.js)
+#### 4. Deno原理详解，让我们一起从源码分析开始
+```
+案例代码见目录，v8worker2
+```
 
-* [http和https 共用端口方案三](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2003/proxy.js)
 
 
 
