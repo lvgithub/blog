@@ -21,11 +21,8 @@
     就可以解决这个问题! 因此我们可以选择底层的tcp服务进行代理！
     2. https数据流的第一位是十六进制“16”，转换成十进制就是22
     3. 通过数据流的第一位置，决定最终反向代理给http\https服务
-    4. 具体实现方案有如下三种,见git http和https...文件夹
+    4. 具体实现方案有如下三种,见git http和https...文件夹
 ```
-
-[http和https 共用端口方案二](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2002/proxy.js)
-[http和https 共用端口方案三](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2003/proxy.js)
 
 #### 4. [Deno原理详解，让我们一起从源码分析开始](https://github.com/lvgithub/blog/blob/master/v8worker2/Deno%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%EF%BC%8C%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E4%BB%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E5%BC%80%E5%A7%8B.md)
 ```
