@@ -28,7 +28,18 @@
 ```
     1. 案例代码见目录: v8worker2
 ```
+#### 5. [Stream.pipe(response) 这样还可以被gzip进行压缩吗？](https://juejin.im/post/5ba333d2e51d450e60582912)
+今天在做React SSR 的时候。React 16 提供了renderToNodeStream的方式，返回HTML，然后就考虑到。
+* 之前直接返回html string 是支持gzip压缩的。
+* Stream.pipe(response) 这样还可以被gzip进行压缩吗？
 
+然后查看了koa-compressorde的源码
+```
+this.body = typeof body.pipe === 'function'
+      ? body.pipe(zlib.Gzip(options))
+      : (yield zlib.gzip(body))
+```
+哈哈，看到这里就很开心了，Pipe的方式也是支持Gzip的。这下我就可以放心的使用了。
 
 
 
