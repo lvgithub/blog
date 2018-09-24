@@ -1,6 +1,6 @@
 
 
-#### 1. [进程间发送socket句柄](https://github.com/lvgithub/blog/blob/master/send%20socket/readme.md)
+#### 1. [进程间发送socket句柄](https://github.com/lvgithub/blog/blob/61d0351a9477c546099d116dfb9d45d4af1eae0f/%E8%BF%9B%E7%A8%8B%E9%97%B4%E5%8F%91%E9%80%81socket/readme.md)
 ```
     socket在进程间传递的典型应用场景见下文第2点
 ```
