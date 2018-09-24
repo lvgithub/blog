@@ -42,6 +42,8 @@ this.body = typeof body.pipe === 'function'
 哈哈，看到这里就很开心了，Pipe的方式也是支持Gzip的。这下我就可以放心的使用了。
 
 
+![微信](./weixin.jpg)
+
 
 
 
