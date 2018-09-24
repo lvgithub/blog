@@ -14,7 +14,6 @@
 ```
 
 
-
 #### 3. [http和https 共用端口方案](https://github.com/lvgithub/blog/blob/master/http%E5%92%8Chttps%20%E5%85%B1%E7%94%A8%E7%AB%AF%E5%8F%A3%E6%96%B9%E6%A1%88%2001/proxy.js)
 ```
     1. HTTP与HTTPS都属于应用层协议，所以只要我们在底层协议中进行反向代理，
@@ -40,6 +39,11 @@ this.body = typeof body.pipe === 'function'
       : (yield zlib.gzip(body))
 ```
 哈哈，看到这里就很开心了，Pipe的方式也是支持Gzip的。这下我就可以放心的使用了。
+
+#### 6. [js性能优化-相同的代码放到不同的地方居然有这么大的性能差异!](https://juejin.im/post/5ba88cdee51d450e6a2e1b9e)
+
+#### 7. [V8引擎之代码被反优化了](https://juejin.im/post/5ba8a0665188255c8d0fcb65)
+
 
 ![微信](./weixin.jpg)  
 
