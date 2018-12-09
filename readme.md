@@ -28,7 +28,7 @@
 
 #### 6. [V8引擎之代码被反优化了](https://juejin.im/post/5ba8a0665188255c8d0fcb65)
 
-#### 7. [避免尝试访问undefined变量的属性报错，使用get-value](https://github.com/lvgithub/blog/blob/master/getValue/index.js)
+#### 7. [使用get-value,避免尝试访问undefined变量的属性报错](https://github.com/lvgithub/blog/blob/master/getValue/index.js)
 
 
 
