@@ -24,9 +24,6 @@
 ```
 
 #### 4. [Deno原理详解，让我们一起从源码分析开始](https://github.com/lvgithub/blog/blob/master/v8worker2/Deno%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%EF%BC%8C%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E4%BB%8E%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90%E5%BC%80%E5%A7%8B.md)
-```
-    1. 案例代码见目录: v8worker2
-```
 #### 5. [js性能优化-相同的代码放到不同的地方居然有这么大的性能差异!](https://juejin.im/post/5ba88cdee51d450e6a2e1b9e)
 
 #### 6. [V8引擎之代码被反优化了](https://juejin.im/post/5ba8a0665188255c8d0fcb65)
