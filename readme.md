@@ -8,7 +8,7 @@
 
  * [Deno原理详解，让我们一起从源码分析开始](./v8worker2/DENO.MD)
 
- * [js性能优化-相同的代码放到不同的地方居然有这么大的性能差异!](./optimization/README.MD)
+ * [JS性能优化-相同的代码放到不同的地方居然有这么大的性能差异!](./optimization/README.MD)
 
  <!-- * [V8引擎之代码被反优化了](https://juejin.im/post/5ba8a0665188255c8d0fcb65) -->
 
