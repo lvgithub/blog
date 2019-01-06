@@ -1,6 +1,12 @@
 
 ## 从Node.Js源码一步步分析，cluster 多次fork一份代码时，如何实现端口重用
 
+* node 启动多个进程的时候，会标记是master、还是child进程
+* 当child进程启动端口监听的时候，listen函数会被hack,然后去master进程注册一个channel用于传递socket
+* master收到socket后，以负载均衡的方式通过child注册的channel把socket发送给child 进程
+* child 进程收到socket后，自然就可以和客户端随心所欲的恋爱了，哈哈
+
+
 起源，从官方实例中看多进程共用端口
 ```
 const cluster = require('cluster');

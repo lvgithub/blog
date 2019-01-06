@@ -1,0 +1,2 @@
+require('./localFun');
+require('./globalFun');
