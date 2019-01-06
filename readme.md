@@ -10,7 +10,7 @@
 
  * [js性能优化-相同的代码放到不同的地方居然有这么大的性能差异!](./optimization/README.MD)
 
- * [V8引擎之代码被反优化了](https://juejin.im/post/5ba8a0665188255c8d0fcb65)
+ <!-- * [V8引擎之代码被反优化了](https://juejin.im/post/5ba8a0665188255c8d0fcb65) -->
 
  * [使用get-value,避免尝试访问undefined变量的属性报错](./getValue/index.js)
 
