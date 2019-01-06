@@ -13,6 +13,10 @@
  <!-- * [V8引擎之代码被反优化了](https://juejin.im/post/5ba8a0665188255c8d0fcb65) -->
 
  * [使用get-value,避免尝试访问undefined变量的属性报错](./getValue/index.js)
+ 
+
+## Linux 
+* [CGROUP对进程使用CPU、内存、磁盘等进行限制或者控制](./cgroup/README.MD)
 
 
 
