@@ -12,7 +12,7 @@
 
  * [使用get-value,避免尝试访问undefined变量的属性报错](./getValue/index.js)
  
- * [理解Node.Js事件循环，写出搞性能代码](./event_loop/README.MD)
+ * [理解Node.Js事件循环，写出高性能代码](./event_loop/README.MD)
 
 ## Linux 
 * [CGROUP对进程使用CPU、内存、磁盘等进行限制或者控制](./cgroup/README.MD)
