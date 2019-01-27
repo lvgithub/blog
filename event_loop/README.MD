@@ -1,5 +1,6 @@
 # Node.Js事件循环
 
+文章首发于我的[Github](https://github.com/lvgithub/blog)
 ## 事件循环是什么
 
 ![事件循环执行各阶段解析](./event_loop_phase.jpg)

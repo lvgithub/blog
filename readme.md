@@ -10,10 +10,9 @@
 
  * [JS性能优化-相同的代码放到不同的地方居然有这么大的性能差异!](./optimization/README.MD)
 
- <!-- * [V8引擎之代码被反优化了](https://juejin.im/post/5ba8a0665188255c8d0fcb65) -->
-
  * [使用get-value,避免尝试访问undefined变量的属性报错](./getValue/index.js)
  
+ * [理解Node.Js事件循环，写出搞性能代码](./event_loop/README.MD)
 
 ## Linux 
 * [CGROUP对进程使用CPU、内存、磁盘等进行限制或者控制](./cgroup/README.MD)
