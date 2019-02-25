@@ -14,6 +14,8 @@
  
  * [理解Node.Js事件循环，写出高性能代码](./event_loop/README.MD)
 
+ * [让浏览器加载Nodejs模块](./browserify/README.MD)
+
 ## Linux 
 * [CGROUP对进程使用CPU、内存、磁盘等进行限制或者控制](./cgroup/README.MD)
 
