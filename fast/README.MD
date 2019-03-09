@@ -22,3 +22,6 @@
 * 多线程模型申请线程的成本是很高的
 * 申请内存，malloc是很慢的，分配大量的对象意味着会比单线程模型慢
 * 如果是CPU密集型的服务，单线程模型会更慢，因为单线程模式，只使用一个CPU内核，CPU密集运算会阻碍整个事件循环的效率
+
+## 参考
+[How, in general, does Node.js handle 10,000 concurrent requests?](https://stackoverflow.com/questions/34855352/how-in-general-does-node-js-handle-10-000-concurrent-requests)
