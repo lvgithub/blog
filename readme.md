@@ -19,7 +19,9 @@
 
  * [让浏览器加载Nodejs模块](./browserify/README.MD)
 
-* [为什么单线程的Node.js 比其他多线程的Web Application 快呢](./fase/README.MD)
+ * [为什么单线程的Node.js 比其他多线程的Web Application 快呢](./fase/README.MD)
+
+ * [Node.JS中的使用别名模块路径](https://github.com/Rush/link-module-alias)
 
 ## Linux 
 * [CGROUP对进程使用CPU、内存、磁盘等进行限制或者控制](./cgroup/README.MD)
