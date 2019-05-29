@@ -31,6 +31,7 @@
 
 
 ## 工具
+* [git 短别名提高效率](./git/alias.md)
 * [git-file-history 快速浏览历史提交记录](https://github.com/pomber/git-history)
 * [油猴🐒脚本管理器，非常牛逼的，让你自定义各种神奇](http://www.tampermonkey.net/)
 
