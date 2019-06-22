@@ -4,7 +4,7 @@
 * [HTTP 重点知识积累](./http/README.MD)
 * [Flex 布局入门非常不错的教程](https://zhuanlan.zhihu.com/p/25303493)
 * [BFC-10分钟理解BFC原理](https://zhuanlan.zhihu.com/p/25321647)
-* [BFC-清除浮动）](https://www.cnblogs.com/dolphinX/p/3508869.html)
+* [BFC-清除浮动](https://www.cnblogs.com/dolphinX/p/3508869.html)
 
 ## Node.js
  * [进程间发送socket句柄](./send_socket/readme.md)
@@ -37,7 +37,8 @@
 * [git 短别名提高效率](./git/alias.md)
 * [git-file-history 快速浏览历史提交记录](https://github.com/pomber/git-history)
 * [油猴🐒脚本管理器，非常牛逼的，让你自定义各种神奇](http://www.tampermonkey.net/)
-
+* [Mob - 一个高颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux](https://github.com/zenghongtu/Mob)
+* [MacOS 版微信小助手](https://github.com/025car/WeChatPlugin-MacOS)
 
 
 
