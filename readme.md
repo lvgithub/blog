@@ -41,5 +41,7 @@
 * [MacOS 版微信小助手](https://github.com/025car/WeChatPlugin-MacOS)
 
 
+## Alfred
+* [首字母大写的驼峰, 首字母小写的驼峰, 以及多单词下划线分隔名称翻译命](https://juejin.im/post/5b45a3a2e51d4519610dd323)
 
 
