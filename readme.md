@@ -39,9 +39,9 @@
 * [油猴🐒脚本管理器，非常牛逼的，让你自定义各种神奇](http://www.tampermonkey.net/)
 * [Mob - 一个高颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux](https://github.com/zenghongtu/Mob)
 * [MacOS 版微信小助手](https://github.com/025car/WeChatPlugin-MacOS)
-
+* [提高文字录入效率 aText](https://www.trankynam.com/atext/)
 
 ## Alfred
-* [首字母大写的驼峰, 首字母小写的驼峰, 以及多单词下划线分隔名称翻译命](https://juejin.im/post/5b45a3a2e51d4519610dd323)
+* [首字母大写的驼峰, 首字母小写的驼峰, 以及多单词下划线分隔名称翻译命](https://github.com/xudaolong/CodeVar)
 
 
