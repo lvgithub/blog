@@ -32,6 +32,8 @@
 ## Linux 
 * [CGROUP对进程使用CPU、内存、磁盘等进行限制或者控制](./cgroup/README.MD)
 
+## 包
+* [node-lru-cache](https://github.com/isaacs/node-lru-cache) LRU(最近最少使用)内存缓存实现，大幅提高接口吞吐量
 
 ## 工具
 * [git 短别名提高效率](./git/alias.md)
