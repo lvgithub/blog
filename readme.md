@@ -35,6 +35,9 @@
 ## 包
 * [node-lru-cache](https://github.com/isaacs/node-lru-cache) LRU(最近最少使用)内存缓存实现，大幅提高接口吞吐量
 
+## 文章
+* [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
+
 ## 工具
 * [git 短别名提高效率](./git/alias.md)
 * [git-file-history 快速浏览历史提交记录](https://github.com/pomber/git-history)
