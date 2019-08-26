@@ -37,7 +37,7 @@
 * [complete implementation of RFC6902](https://github.com/chbrown/rfc6902) 一个对比json区别的包
 ## 文章
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
-
+* [函数节流与函数防抖](https://juejin.im/entry/58c0379e44d9040068dc952f)
 ## 工具
 * [git 短别名提高效率](./git/alias.md)
 * [git-file-history 快速浏览历史提交记录](https://github.com/pomber/git-history)
