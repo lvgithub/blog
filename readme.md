@@ -41,7 +41,7 @@
 * [autoprefixer](https://github.com/postcss/autoprefixer) 一款自动管理浏览器前缀的插件，它可以解析CSS文件并且添加浏览器前缀到CSS内容里
 * [PostCSS](https://www.postcss.com.cn/) 一个用 JavaScript 工具和插件转换 CSS 代码的工具
 * [react-grid-layout](https://github.com/STRML/react-grid-layout?utm_source=gold_browser_extension)A draggable and resizable grid layout with responsive breakpoints, for React
-
+* [v8n](https://github.com/imbrn/v8n)avaScript fluent validation library
 ## 文章
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
 * [函数节流与函数防抖](https://juejin.im/entry/58c0379e44d9040068dc952f)
