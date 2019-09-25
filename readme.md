@@ -37,6 +37,7 @@
 * [node-lru-cache](https://github.com/isaacs/node-lru-cache) LRU(最近最少使用)内存缓存实现，大幅提高接口吞吐量
 * [complete implementation of RFC6902](https://github.com/chbrown/rfc6902) 一个对比json区别的包
 * [query-mobile-phone-area](https://github.com/SuperID/query-mobile-phone-area)查询手机号码归属地
+* [好用小巧功能全面的汉字|繁体字拼音笔画js库](https://github.com/theajack/cnchar)
 
 ## FE包
 * [react-diff-view](https://github.com/otakustay/react-diff-view) react git 文件区别对比
