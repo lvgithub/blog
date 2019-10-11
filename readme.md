@@ -65,4 +65,5 @@
 
 ## 架构技术
 * [并发扣款一致性，幂等性问题，这个话题还没聊完！！](https://mp.weixin.qq.com/s/xXju0y64KKUiD06QE0LoeA)
+* [并发扣款，如何保证数据的一致性？](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651962738&idx=1&sn=d2d91a380bad06af9f7b9f7a80db26b3&chksm=bd2d08ae8a5a81b8a7f044af52c5e6e77ec3df2bb4a9c91cd450c3fd932e8dade56afb09f784&scene=21#wechat_redirect)
 
