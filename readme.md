@@ -40,6 +40,7 @@
 * [好用小巧功能全面的汉字|繁体字拼音笔画js库](https://github.com/theajack/cnchar)
 * [http 各状态分析包](https://github.com/yosuke-furukawa/httpstat)
 * [Generic Pool](https://github.com/coopernurse/node-pool)通用资源池套件,可用于重用或限制昂贵的资源（例如数据库连接）
+* [p-limit](https://github.com/sindresorhus/p-limit/blob/master/index.js) promise 并发限制
 
 ## FE包
 * [react-diff-view](https://github.com/otakustay/react-diff-view) react git 文件区别对比
