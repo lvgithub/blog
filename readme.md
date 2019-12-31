@@ -41,6 +41,8 @@
 * [http 各状态分析包](https://github.com/yosuke-furukawa/httpstat)
 * [Generic Pool](https://github.com/coopernurse/node-pool)通用资源池套件,可用于重用或限制昂贵的资源（例如数据库连接）
 * [p-limit](https://github.com/sindresorhus/p-limit/blob/master/index.js) promise 并发限制
+* [es6-promise-pool](https://github.com/timdp/es6-promise-pool#readme) promise 并发限制
+* [asyncPool](https://github.com/rxaviers/async-pool#readme) promise 并发限制
 
 ## FE包
 * [react-diff-view](https://github.com/otakustay/react-diff-view) react git 文件区别对比
