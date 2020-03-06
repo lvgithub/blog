@@ -59,6 +59,8 @@
 ## Alfred
 * [首字母大写的驼峰, 首字母小写的驼峰, 以及多单词下划线分隔名称翻译命](https://github.com/xudaolong/CodeVar)
 
+## 文章
+* [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
 
 ## 架构技术
 * [并发扣款一致性，幂等性问题，这个话题还没聊完！！](https://mp.weixin.qq.com/s/xXju0y64KKUiD06QE0LoeA)
