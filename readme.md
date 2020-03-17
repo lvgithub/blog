@@ -45,6 +45,8 @@
 ## 文章
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
 * [函数节流与函数防抖](https://juejin.im/entry/58c0379e44d9040068dc952f)
+* [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
+* [30 seconds of code](https://www.30secondsofcode.org/)
 
 ## 工具
 * [git 短别名提高效率](./git/alias.md)
@@ -59,9 +61,8 @@
 ## Alfred
 * [首字母大写的驼峰, 首字母小写的驼峰, 以及多单词下划线分隔名称翻译命](https://github.com/xudaolong/CodeVar)
 
-## 文章
-* [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
-* [30 seconds of code](https://www.30secondsofcode.org/)
+## Q&A
+* [React Hooks 方式下 props 到 state 的值同步](https://github.com/wayou/wayou.github.io/issues/36)
 
 ## 架构技术
 * [并发扣款一致性，幂等性问题，这个话题还没聊完！！](https://mp.weixin.qq.com/s/xXju0y64KKUiD06QE0LoeA)
