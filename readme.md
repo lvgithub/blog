@@ -39,8 +39,8 @@
 * [react-diff-view](https://github.com/otakustay/react-diff-view) react git 文件区别对比
 * [autoprefixer](https://github.com/postcss/autoprefixer) 一款自动管理浏览器前缀的插件，它可以解析CSS文件并且添加浏览器前缀到CSS内容里
 * [PostCSS](https://www.postcss.com.cn/) 一个用 JavaScript 工具和插件转换 CSS 代码的工具
-* [react-grid-layout](https://github.com/STRML/react-grid-layout?utm_source=gold_browser_extension)A draggable and resizable grid layout with responsive breakpoints, for React
-* [v8n](https://github.com/imbrn/v8n)avaScript fluent validation library
+* [react-grid-layout](https://github.com/STRML/react-grid-layout?utm_source=gold_browser_extension) A draggable and resizable grid layout with responsive breakpoints, for React
+* [v8n](https://github.com/imbrn/v8n) 一个 JavaScript 流利的参数校验工具
 
 ## 文章
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
@@ -61,6 +61,7 @@
 
 ## 文章
 * [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
+* [30 seconds of code](https://www.30secondsofcode.org/)
 
 ## 架构技术
 * [并发扣款一致性，幂等性问题，这个话题还没聊完！！](https://mp.weixin.qq.com/s/xXju0y64KKUiD06QE0LoeA)
