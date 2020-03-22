@@ -3,9 +3,13 @@
 
 * [HTTP 重点知识积累](./http/README.MD)
 * [Flex 布局入门非常不错的教程](https://zhuanlan.zhihu.com/p/25303493)
+* [flex深度剖析-解决移动端适配问题](https://juejin.im/post/5e72eca86fb9a07cd80f410f#heading-1)
 * [BFC-10分钟理解BFC原理](https://zhuanlan.zhihu.com/p/25321647)
 * [BFC-清除浮动](https://www.cnblogs.com/dolphinX/p/3508869.html)
 * [如何解释Event Loop面试官才满意](https://zhuanlan.zhihu.com/p/72507900)
+* [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem)
+* [postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport)
+* [ECMAScript 6 入门教程](https://es6.ruanyifeng.com/)
 
 ## Node.js
  * [性能优化技巧](https://medium.com/zooz-engineering/nodejs-performance-302ff764509a)
@@ -19,6 +23,7 @@
  * [让浏览器加载Node.js模块](./browserify/README.MD)
  * [为什么单线程的Node.js 比其他多线程的Web Application 快呢](./fase/README.MD)
  * [Node.JS中的使用别名模块路径](./symlink/README.MD)
+ * [吹毛求疵的追求优雅高性能](https://github.com/jawil/blog/issues/2#)
  * [一种改进Node.js调试体验工具](https://github.com/GoogleChromeLabs/ndb)
 
 ## Linux 
@@ -26,6 +31,7 @@
 
 ## Node.js包
 * [node-lru-cache](https://github.com/isaacs/node-lru-cache) LRU(最近最少使用)内存缓存实现，大幅提高接口吞吐量
+* [request-id](https://www.npmjs.com/package/request-id) 给每一个请求标记上唯一的请求ID
 * [complete implementation of RFC6902](https://github.com/chbrown/rfc6902) 一个对比json区别的包
 * [query-mobile-phone-area](https://github.com/SuperID/query-mobile-phone-area)查询手机号码归属地
 * [好用小巧功能全面的汉字|繁体字拼音笔画js库](https://github.com/theajack/cnchar)
@@ -34,6 +40,9 @@
 * [p-limit](https://github.com/sindresorhus/p-limit/blob/master/index.js) promise 并发限制
 * [es6-promise-pool](https://github.com/timdp/es6-promise-pool#readme) promise 并发限制
 * [asyncPool](https://github.com/rxaviers/async-pool#readme) promise 并发限制
+* [p-limit](https://github.com/sindresorhus/p-limit#readme)promise 并发限制
+* [es6-promise-pool](https://github.com/timdp/es6-promise-pool#readme) promise 并发限制
+* [Ajv: Another JSON Schema Validator ](https://github.com/epoberezkin/ajv)Ajv: Another JSON Schema Validator
 
 ## FE包
 * [react-diff-view](https://github.com/otakustay/react-diff-view) react git 文件区别对比
@@ -41,6 +50,7 @@
 * [PostCSS](https://www.postcss.com.cn/) 一个用 JavaScript 工具和插件转换 CSS 代码的工具
 * [react-grid-layout](https://github.com/STRML/react-grid-layout?utm_source=gold_browser_extension) A draggable and resizable grid layout with responsive breakpoints, for React
 * [v8n](https://github.com/imbrn/v8n) 一个 JavaScript 流利的参数校验工具
+* [react-json-editor-ajrm ](https://www.npmjs.com/package/react-json-editor-ajrm)  JSON编辑器
 
 ## 文章
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
