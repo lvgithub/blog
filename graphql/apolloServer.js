@@ -1,58 +1,59 @@
 const Koa = require('koa');
 const { ApolloServer, gql } = require('apollo-server-koa');
-const low = require('lowdb');
-const FileSync = require('lowdb/adapters/FileSync');
-
-const adapter = new FileSync('./db/data.json');
-const db = low(adapter);
 
 // 定义两个查询方法
 const typeDefs = gql`
-    type Query {
-      hero(id :Int): Hero
-    }
-    type Mutation {
-      createHero(name: String, age: Int, attr: AttrInput): [Hero]
-    }
-    input AttrInput {
-      shoes: String
-      clothes: String
-      hat: String
-    }
-    type Hero {
-      id: Int
-      name: String
-      age: Int
-      attr: Attr
-    }
-    type Attr {
-      shoes: String
-      clothes: String
-      hat: String
-    }
-  `;
+  type Book {
+    title: String
+    authorName: String
+  }
 
-// 为各自的方法提供数据
+  type Author {
+    authorName: String
+    books(bookName: String): [Book]
+  }
+
+  type Query {
+    author(name: String): Author
+  }
+`;
+
+const Books = [
+  {
+    title: '红楼梦',
+    authorName: '曹雪芹'
+  },
+  {
+    title: '西游记',
+    authorName: '吴承恩'
+  }
+];
+
 const resolvers = {
   Query: {
-    hero: async (parent, args, context, info) => {
-      const { id } = args;
-      return db.get('hero').find({ id }).value();
+    author(parent, args, context, info) {
+      return new Promise((resolve, reject) => {
+        setTimeout(() => {
+          resolve({
+            authorName: '吴承恩'
+          });
+        }, 1000);
+      })
     }
   },
-  Mutation: {
-    createHero: async (parent, args, context, info) => {
-      const model = db.get('hero');
-      const len = model.value().length;
-      model
-        .push({ id: len + 1, ...args })
-        .write();
-      return db.get('hero').value();
+  Author: {
+    books: (parent, args) => {
+      return Books.filter(item => item.authorName === parent.authorName)
     }
   }
 };
 
-const server = new ApolloServer({ typeDefs, resolvers });
+const server = new ApolloServer({
+  typeDefs,
+  resolvers,
+  context: {},
+  tracing: true
+});
 
 const app = new Koa();
 server.applyMiddleware({ app });

@@ -9,7 +9,7 @@
 `GraphQL` 既是一种用于 API 的查询语言也是一个满足你数据查询的运行时。如何理解呢？**GraphQL 作为通用的 REST 架构的替代方案而被开发出来**  ,通俗的讲，在架构中他属于和`REST`处于同一个层次的东西。对于`REST`,`GraphQL`的优势在于：
 
 * REST接口的数据由后端定义，如果返回了前端不期望的数据结构就需要和后端沟通修改或者自己适配；
-* `GraphQL`向你的 API 发出一个 GraphQL 请求，客户端就能准确获得你想要的数据，不多不少；
+* `GraphQL` 向你的 API 发出一个 GraphQL 请求，客户端就能准确获得你想要的数据，不多不少；
 * `GraphQL` 可以通过一次请求就获取你应用所需的所有数据，而` REST API `则需要请求多个URL;
 * `GraphQL` 查询的结构和结果非常相似，因此即便不知道服务器的情况，你也能预测查询会返回什么结果。
 
@@ -249,7 +249,7 @@ const resolvers = {
 
 ![image-20200102191208313](apolloServer.assets/image-20200102191208313.png)
 
-## 输入类型（Input Types
+## 输入类型（Input Types)
 
 在前面的例子中，我们传入的类型都为标量类型，如果我们想传入一个复杂的结构数据可以使用 `input`关键字。其用法和`type`一样，服务端定义完后，客户端查询的时候也可以使用该类型了。
 
@@ -531,6 +531,256 @@ app.listen({ port: 4000 }, () =>
 ```
 
 ![image-20200106164357290](apolloServer.assets/image-20200106164357290.png)
+
+## 自定义类型（Custom scalars）
+
+GraphQL 除了常规的类型（`Int`、`Float`、`String`、`Boolean`、`ID`）类型外，我们还可以通过`scalar`关键字来定义一个自定义类型。
+
+* 语法：`scalar MyCustomScalar`；
+
+* 在`schema`中定义类型；
+* 在 `Resolvers`中对类型进行解析序列化；
+
+自定义类型依赖于GraphQLScalarType，有三个属性很关键：
+
+* `serialize `对服务器返回给客户端数据时进行处理；
+* `parseValue` 客户端通过变量的方式传递参数时对参数进行处理；
+* `parseLiteral` 客户端通过字面量的方式传递参数时对参数进行处理。
+
+```javascript
+const Koa = require('koa');
+const { ApolloServer, gql } = require('apollo-server-koa');
+const { GraphQLScalarType } = require('graphql');
+const { Kind } = require('graphql/language');
+
+// 定义两个查询方法
+const typeDefs = gql`
+    scalar Date
+    type Query {
+      getDate: Date
+    }
+    type Mutation {
+      createDate(date: Date): Date
+    }
+`;
+
+// 为各自的方法提供数据
+const resolvers = {
+  Date: new GraphQLScalarType({
+    name: 'Date',
+    description: 'Date custom scalar type',
+    serialize(value) {
+      // 服务端返回给客户端在这序列化
+      return value.getTime();
+    },
+    // 解析客户端传的通过query直接携带的参数，
+    // 
+    parseValue(value) {
+     
+      return new Date(+value);
+    },
+    // 解析客户端传的参数，通过变量携带的参数
+    parseLiteral(ast) {
+      if (ast.kind === Kind.INT) {
+        return ast.value;
+      }
+      return null;
+    },
+  }),
+  Query: {
+    getDate: () => {
+      return new Date();
+    }
+  },
+  Mutation: {
+    createDate: (parent, args) => {
+      const d = new Date(+args.date);
+      return d;
+    }
+  },
+};
+
+const server = new ApolloServer({ typeDefs, resolvers });
+
+const app = new Koa();
+server.applyMiddleware({ app });
+
+app.listen({ port: 4000 }, () =>
+  console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`),
+);
+```
+
+![image-20200109201956986](graphql.assets/image-20200109201956986-8647353.png)
+
+## 枚举（ENUM）
+
+和`type`的使用方式类似，enum 使用`enum`定义：
+
+```javascript
+const Koa = require('koa');
+const { ApolloServer, gql } = require('apollo-server-koa');
+
+// 定义两个查询方法
+const typeDefs = gql`
+  enum AllowedColor {
+    RED
+    GREEN
+    BLUE
+  }
+  type Query {
+    favoriteColor: AllowedColor
+    avatar(borderColor: AllowedColor): String
+  }
+`;
+
+// 为各自的方法提供数据
+const resolvers = {
+  Query: {
+    favoriteColor: () => 'RED',
+    avatar: (parent, args) => {
+      console.log('args', args);
+    },
+  }
+};
+
+const server = new ApolloServer({ typeDefs, resolvers });
+
+const app = new Koa();
+server.applyMiddleware({ app });
+
+app.listen({ port: 4000 }, () =>
+  console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`),
+);
+```
+
+## 内部值（Internal values）
+
+虽然有了枚举值，已经很棒了，但是还有一个遗憾就是，比如上面的案例，如果你想修改`RED`值为 `#FF0`,这时候客户端和服务端都需要进行修改，这对项目解耦就不友好了。因此提供了 `Internal values`来解决。我们可以通过在`resolvers`中定义一个内部值得map 关系:
+
+```js
+const resolvers = {
+  AllowedColor: {
+    RED: '#f00',
+    GREEN: '#0f0',
+    BLUE: '#00f',
+  }
+};
+```
+
+ 这样就能保证在不改变对外API的情况下，修改一数据类型对于的值了。完整例子如下：
+
+```javascript
+const Koa = require('koa');
+const { ApolloServer, gql } = require('apollo-server-koa');
+
+// 定义两个查询方法
+const typeDefs = gql`
+  enum AllowedColor {
+    RED
+    GREEN
+    BLUE
+  }
+  type Query {
+    favoriteColor: AllowedColor
+    avatar(borderColor: AllowedColor): String
+  }
+`;
+
+// 为各自的方法提供数据
+const resolvers = {
+  AllowedColor: {
+    RED: '#f00',
+    GREEN: '#0f0',
+    BLUE: '#00f',
+  },
+  Query: {
+    favoriteColor: () => '#f00',
+    avatar: (parent, args) => {
+      console.log('args', args);
+      return JSON.stringify(args);
+    },
+  }
+};
+
+const server = new ApolloServer({ typeDefs, resolvers });
+
+const app = new Koa();
+server.applyMiddleware({ app });
+
+app.listen({ port: 4001 }, () =>
+  console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`),
+);
+```
+
+![image-20200110170508940](graphql.assets/image-20200110170508940-8647353.png)
+
+如上图查询结果: `RED`被映射为`#f00`，太完美了。
+
+## Resolve map
+
+当我我们查询返回的字段是嵌套对象的时候，为了更好的相应数据，GrqphQL提供了`Resolve map`帮助我们去处理内层对象。
+
+```javascript
+const Koa = require('koa');
+const { ApolloServer, gql } = require('apollo-server-koa');
+
+// 定义两个查询方法
+const typeDefs = gql`
+  type Book {
+    title: String
+    author: Author
+  }
+
+  type Author {
+    author: String
+    books: [Book]
+  }
+
+  type Query {
+    author: Author
+  }
+`;
+
+const Books = [
+  {
+    title: '红楼梦',
+    author: '曹雪芹'
+  },
+  {
+    title: '西游记',
+    author: '吴承恩'
+  }
+];
+
+const resolvers = {
+  Query: {
+    author(parent, args, context, info) {
+      return {
+        author: '吴承恩'
+      }
+    },
+  },
+  Author: {
+    books: (result) => {
+      return Books.filter(item => item.author === result.author)
+    }
+  },
+};
+
+const server = new ApolloServer({ typeDefs, resolvers });
+
+const app = new Koa();
+server.applyMiddleware({ app });
+
+app.listen({ port: 4000 }, () =>
+  console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`),
+);
+```
+
+如上所示:
+
+* 查询会先调用 `Query.author`,然后把返回结果通过 `parent`参数传给`Author.books`；
+* `Query.author`返回的是一个promise,只有当 promise 状态为resolve,才会执行`Author.books`；
 
 ## Mock数据
 

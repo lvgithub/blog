@@ -1,0 +1,4 @@
+scalar Date
+type Query {
+    date(id :Int): Date
+}
