@@ -12,6 +12,7 @@
 * [ECMAScript 6 入门教程](https://es6.ruanyifeng.com/)
 
 ## Node.js
+ * [consul client](https://www.npmjs.com/package/consul)  consul 服务发现、配置中心、健康检查客户端
  * [性能优化技巧](https://medium.com/zooz-engineering/nodejs-performance-302ff764509a)
  * [进程间发送socket句柄](./send_socket/readme.md)
  * [从Node.Js源码一步步分析，cluster 多次fork一份代码时，如何实现端口重用](./cluster.md)
