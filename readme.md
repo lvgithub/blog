@@ -58,6 +58,7 @@
 * [WebRTC Web demos and samples ](https://github.com/webrtc/samples) web即时通讯案例
 * [gasp GreenSock Animation Platform](https://www.npmjs.com/package/gsap)  GASP 动画库
 * [Javascript tweening engine](https://github.com/tweenjs/tween.js)
+* [A color management API for javascript](https://github.com/brehaut/color-js)
 
 ## 文章
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
