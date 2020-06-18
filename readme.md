@@ -77,6 +77,7 @@
 * [Mac版微信的功能拓展](https://github.com/MustangYM/WeChatExtension-ForMac)
 * [Chrome插件开发全攻略](https://github.com/sxei/chrome-plugin-demo)
 * [lerna管理前端packages](https://github.com/lerna/lerna)
+* [Mac端最纯粹的分屏软件，办公必备窗口管理工具！](http://magnet.crowdcafe.com/)
 
 ## Alfred
 * [首字母大写的驼峰, 首字母小写的驼峰, 以及多单词下划线分隔名称翻译命](https://github.com/xudaolong/CodeVar)
