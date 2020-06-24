@@ -10,6 +10,7 @@
 * [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem)
 * [postcss-px-to-viewport](https://github.com/evrone/postcss-px-to-viewport)
 * [ECMAScript 6 入门教程](https://es6.ruanyifeng.com/)
+* [CSS 奇技淫巧，在这里，都有](https://github.com/chokcoco/iCSS)
 
 ## Node.js
  * [consul client](https://www.npmjs.com/package/consul)  consul 服务发现、配置中心、健康检查客户端
