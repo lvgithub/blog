@@ -27,7 +27,9 @@
  * [Node.JS中的使用别名模块路径](./symlink/README.MD)
  * [吹毛求疵的追求优雅高性能](https://github.com/jawil/blog/issues/2#)
  * [一种改进Node.js调试体验工具](https://github.com/GoogleChromeLabs/ndb)
- * [熔断器](https://nodeshift.dev/opossum/)
+ * [熔断器 opossum](https://nodeshift.dev/opossum/)
+ * [熔断器 hystrixjs](https://www.npmjs.com/package/hystrixjs)
+ * [熔断器 brakes](https://github.com/awolden/brakes)
 
 ## Linux 
 * [Docker —— 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
