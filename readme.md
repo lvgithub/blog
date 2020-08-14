@@ -13,6 +13,7 @@
 * [CSS 奇技淫巧，在这里，都有](https://github.com/chokcoco/iCSS)
 
 ## Node.js
+ * [deep-into-node](https://github.com/yjhjstz/deep-into-node)
  * [consul client](https://www.npmjs.com/package/consul)  consul 服务发现、配置中心、健康检查客户端
  * [性能优化技巧](https://medium.com/zooz-engineering/nodejs-performance-302ff764509a)
  * [进程间发送socket句柄](./send_socket/readme.md)
