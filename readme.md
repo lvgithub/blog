@@ -1,5 +1,11 @@
+## 文章
 
-## FE
+* [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
+* [函数节流与函数防抖](https://juejin.im/entry/58c0379e44d9040068dc952f)
+* [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
+* [30 seconds of code](https://www.30secondsofcode.org/)
+
+## FE 文章
 
 * [HTTP 重点知识积累](./http/README.MD)
 * [Flex 布局入门非常不错的教程](https://zhuanlan.zhihu.com/p/25303493)
@@ -12,7 +18,7 @@
 * [ECMAScript 6 入门教程](https://es6.ruanyifeng.com/)
 * [CSS 奇技淫巧，在这里，都有](https://github.com/chokcoco/iCSS)
 
-## Node.js
+## Node.JS文章
  * [deep-into-node](https://github.com/yjhjstz/deep-into-node)
  * [consul client](https://www.npmjs.com/package/consul)  consul 服务发现、配置中心、健康检查客户端
  * [性能优化技巧](https://medium.com/zooz-engineering/nodejs-performance-302ff764509a)
@@ -28,15 +34,6 @@
  * [Node.JS中的使用别名模块路径](./symlink/README.MD)
  * [吹毛求疵的追求优雅高性能](https://github.com/jawil/blog/issues/2#)
  * [一种改进Node.js调试体验工具](https://github.com/GoogleChromeLabs/ndb)
- * [熔断器 opossum](https://nodeshift.dev/opossum/)
- * [熔断器 hystrixjs](https://www.npmjs.com/package/hystrixjs)
- * [熔断器 brakes](https://github.com/awolden/brakes)
-
-## Linux 
-* [Docker —— 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
-* [CGROUP对进程使用CPU、内存、磁盘等进行限制或者控制](./cgroup/README.MD)
-* [ShellCheck, a static analysis tool for shell scripts ](https://github.com/koalaman/shellcheck)
-* [Nginx 高级教程强干货](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
 
 ## Node.js包
 * [node-lru-cache](https://github.com/isaacs/node-lru-cache) LRU(最近最少使用)内存缓存实现，大幅提高接口吞吐量
@@ -52,6 +49,9 @@
 * [p-limit](https://github.com/sindresorhus/p-limit#readme)promise 并发限制
 * [es6-promise-pool](https://github.com/timdp/es6-promise-pool#readme) promise 并发限制
 * [Ajv: Another JSON Schema Validator ](https://github.com/epoberezkin/ajv)Ajv: Another JSON Schema Validator
+* [熔断器 opossum](https://nodeshift.dev/opossum/)
+ * [熔断器 hystrixjs](https://www.npmjs.com/package/hystrixjs)
+ * [熔断器 brakes](https://github.com/awolden/brakes)
 
 ## FE包
 * [react-diff-view](https://github.com/otakustay/react-diff-view) react git 文件区别对比
@@ -65,11 +65,12 @@
 * [Javascript tweening engine](https://github.com/tweenjs/tween.js)
 * [A color management API for javascript](https://github.com/brehaut/color-js)
 
-## 文章
-* [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
-* [函数节流与函数防抖](https://juejin.im/entry/58c0379e44d9040068dc952f)
-* [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
-* [30 seconds of code](https://www.30secondsofcode.org/)
+## Linux 
+
+* [Docker —— 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
+* [CGROUP对进程使用CPU、内存、磁盘等进行限制或者控制](./cgroup/README.MD)
+* [ShellCheck, a static analysis tool for shell scripts ](https://github.com/koalaman/shellcheck)
+* [Nginx 高级教程强干货](http://openresty.org/download/agentzh-nginx-tutorials-zhcn.html)
 
 ## 工具
 * [git 短别名提高效率](./git/alias.md)
