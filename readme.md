@@ -6,7 +6,7 @@
 * [30 seconds of code](https://www.30secondsofcode.org/)
 
 ## C & C++
-* [xiaodu2019](https://github.com/jobbole/awesome-c-cn)
+* [C 语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)
 * [learnuv](https://github.com/thlorenz/learnuv)
 * [uvbook](https://github.com/nikhilm/uvbook)
 * [C++ 那些事](https://light-city.club/sc/)
