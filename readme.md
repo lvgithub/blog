@@ -5,6 +5,15 @@
 * [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
 * [30 seconds of code](https://www.30secondsofcode.org/)
 
+## C & C++
+* [xiaodu2019](https://github.com/jobbole/awesome-c-cn)
+* [learnuv](https://github.com/thlorenz/learnuv)
+* [uvbook](https://github.com/nikhilm/uvbook)
+* [C++ 那些事](https://light-city.club/sc/)
+* [Linux 内核揭秘](https://github.com/MintCN/linux-insides-zh)
+* [xv6 OS](https://github.com/mit-pdos/xv6-public)
+
+
 ## FE 文章
 
 * [HTTP 重点知识积累](./http/README.MD)
@@ -34,6 +43,7 @@
  * [Node.JS中的使用别名模块路径](./symlink/README.MD)
  * [吹毛求疵的追求优雅高性能](https://github.com/jawil/blog/issues/2#)
  * [一种改进Node.js调试体验工具](https://github.com/GoogleChromeLabs/ndb)
+ * [timer的优化故事](https://github.com/hustxiaoc/node.js/issues/10)
 
 ## Node.js包
 * [node-lru-cache](https://github.com/isaacs/node-lru-cache) LRU(最近最少使用)内存缓存实现，大幅提高接口吞吐量
