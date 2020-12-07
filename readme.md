@@ -60,8 +60,8 @@
 * [es6-promise-pool](https://github.com/timdp/es6-promise-pool#readme) promise 并发限制
 * [Ajv: Another JSON Schema Validator ](https://github.com/epoberezkin/ajv)Ajv: Another JSON Schema Validator
 * [熔断器 opossum](https://nodeshift.dev/opossum/)
- * [熔断器 hystrixjs](https://www.npmjs.com/package/hystrixjs)
- * [熔断器 brakes](https://github.com/awolden/brakes)
+* [熔断器 hystrixjs](https://www.npmjs.com/package/hystrixjs)
+* [熔断器 brakes](https://github.com/awolden/brakes)
 
 ## FE包
 * [react-diff-view](https://github.com/otakustay/react-diff-view) react git 文件区别对比
@@ -74,7 +74,7 @@
 * [gasp GreenSock Animation Platform](https://www.npmjs.com/package/gsap)  GASP 动画库
 * [Javascript tweening engine](https://github.com/tweenjs/tween.js)
 * [A color management API for javascript](https://github.com/brehaut/color-js)
-
+* [elgrapho是一个高性能的WebGL图形数据可视化引擎](https://github.com/ericdrowell/ElGrapho)
 ## Linux 
 
 * [Docker —— 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
