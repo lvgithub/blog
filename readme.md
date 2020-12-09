@@ -5,8 +5,10 @@
 * [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
 * [30 seconds of code](https://www.30secondsofcode.org/)
 
-## 工具网站
+## 工具
 * [常用算法的空间、时间复杂度](https://www.bigocheatsheet.com/)
+* [jsperf 性能测试](https://github.com/jsperf/jsperf.com)
+* [benchmark.js 性能测试](https://github.com/bestiejs/benchmark.js/)
 
 ## C & C++
 * [C 语言资源大全中文版](https://github.com/jobbole/awesome-c-cn)
@@ -47,6 +49,7 @@
  * [吹毛求疵的追求优雅高性能](https://github.com/jawil/blog/issues/2#)
  * [一种改进Node.js调试体验工具](https://github.com/GoogleChromeLabs/ndb)
  * [timer的优化故事](https://github.com/hustxiaoc/node.js/issues/10)
+ * [Fast properties in V8](https://v8.dev/blog/fast-properties)
 
 ## Node.js包
 * [node-lru-cache](https://github.com/isaacs/node-lru-cache) LRU(最近最少使用)内存缓存实现，大幅提高接口吞吐量
