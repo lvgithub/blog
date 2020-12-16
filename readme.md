@@ -6,6 +6,7 @@
 * [30 seconds of code](https://www.30secondsofcode.org/)
 
 ## 工具
+* [免费计算机书籍汇总](https://github.com/ruanyf/free-books)
 * [程序员学习路线](https://github.com/kamranahmedse/developer-roadmap)
 * [常用算法的空间、时间复杂度](https://www.bigocheatsheet.com/)
 * [jsperf 性能测试](https://github.com/jsperf/jsperf.com)
