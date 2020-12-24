@@ -69,6 +69,7 @@
 * [熔断器 opossum](https://nodeshift.dev/opossum/)
 * [熔断器 hystrixjs](https://www.npmjs.com/package/hystrixjs)
 * [熔断器 brakes](https://github.com/awolden/brakes)
+* [node-notifier Send cross platform native notifications using Node.js.](https://github.com/mikaelbr/node-notifier#readme)
 
 ## FE包
 * [react-diff-view](https://github.com/otakustay/react-diff-view) react git 文件区别对比
