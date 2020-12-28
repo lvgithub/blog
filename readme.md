@@ -84,6 +84,7 @@
 * [A color management API for javascript](https://github.com/brehaut/color-js)
 * [elgrapho是一个高性能的WebGL图形数据可视化引擎](https://github.com/ericdrowell/ElGrapho)
 * [录制并回放任意 web 界面中的用户操作](https://github.com/rrweb-io/rrweb)
+* [万能网页监控器，监控物价、订单、出货、外汇、折扣、彩票...无所不能](https://github.com/aceimnorstuvwxz/openwebmonitor)
 ## Linux 
 
 * [Docker —— 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
