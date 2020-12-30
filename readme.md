@@ -13,7 +13,9 @@
 * [Mob - 一个高颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux](https://github.com/zenghongtu/Mob)
 * [提高文字录入效率 aText](https://www.trankynam.com/atext/)
 * [Mac版微信小助手](https://github.com/MustangYM/WeChatExtension-ForMac)
+* [一个帮助你自动申请京东价格保护的chrome拓展](https://github.com/sunoj/jjb)
 * [Mac端最纯粹的分屏软件，办公必备窗口管理工具！](http://magnet.crowdcafe.com/)
+* 
 * [功能一应俱全、简单好用的线上 PDF 工具](https://smallpdf.com/cn)
 
 ## 工具网站
