@@ -6,13 +6,13 @@
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
 
 ## 工具
-
 * [git 短别名提高效率](./git/alias.md)
 * [git-file-history 快速浏览历史提交记录](https://github.com/pomber/git-history)
 * [油猴🐒脚本管理器，非常牛逼的，让你自定义各种神奇](http://www.tampermonkey.net/)
 * [Mob - 一个高颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux](https://github.com/zenghongtu/Mob)
 * [提高文字录入效率 aText](https://www.trankynam.com/atext/)
 * [Mac版微信小助手](https://github.com/MustangYM/WeChatExtension-ForMac)
+* [iOS版微信抢红包插件](https://github.com/buginux/WeChatRedEnvelop)
 * [京东茅台抢购，不支持其他商品！愿大家与黄牛站在同一个起跑线，公平的参与这场抢茅大赛](https://github.com/huanghyw/jd_seckill)
 * [一个帮助你自动申请京东价格保护的chrome拓展](https://github.com/sunoj/jjb)
 * [Mac端最纯粹的分屏软件，办公必备窗口管理工具！](http://magnet.crowdcafe.com/)
@@ -75,7 +75,6 @@
 * [CSS 奇技淫巧，在这里，都有](https://github.com/chokcoco/iCSS)
 * [Chrome插件开发全攻略](https://github.com/sxei/chrome-plugin-demo)
 
-* https://github.com/mikaelbr/node-notifier#readme) 
 
 ## FE包
 * [react-diff-view](https://github.com/otakustay/react-diff-view) react git 文件区别对比
@@ -94,6 +93,7 @@
 * [elgrapho是一个高性能的WebGL图形数据可视化引擎](https://github.com/ericdrowell/ElGrapho)
 * [录制并回放任意 web 界面中的用户操作](https://github.com/rrweb-io/rrweb)
 * [万能网页监控器，监控物价、订单、出货、外汇、折扣、彩票...无所不能](https://github.com/aceimnorstuvwxz/openwebmonitor)
+* [record and replay the web](https://github.com/rrweb-io/rrweb/blob/master/README.md) 旨在利用现代浏览器所提供的强大 API 录制并回放任意 web 界面中的用户操作。
 
 ## C & C++
 
