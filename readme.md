@@ -103,6 +103,7 @@
 * [xv6 OS](https://github.com/mit-pdos/xv6-public)
 * [learnuv](https://github.com/thlorenz/learnuv)
 * [uvbook](https://github.com/nikhilm/uvbook)
+* [KCP - A Fast and Reliable ARQ Protocol (快速可靠传输协议)](https://github.com/skywind3000/kcp)
 
 ## Linux 
 
@@ -122,6 +123,15 @@
 ## 架构技术
 * [并发扣款一致性，幂等性问题，这个话题还没聊完！！](https://mp.weixin.qq.com/s/xXju0y64KKUiD06QE0LoeA)
 * [并发扣款，如何保证数据的一致性？](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651962738&idx=1&sn=d2d91a380bad06af9f7b9f7a80db26b3&chksm=bd2d08ae8a5a81b8a7f044af52c5e6e77ec3df2bb4a9c91cd450c3fd932e8dade56afb09f784&scene=21#wechat_redirect)
+
+## 逆向
+
+* [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)  Mac微信功能拓展/微信插件/微信小助手
+* [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop)  iOS版微信抢红包Tweak
+* [WeChat_tweak](https://github.com/dgynfi/WeChat_tweak) iOS版功能最全的微信插件，具备自动抢红包，屏蔽消息和群消息
+* [WeChatRobot](https://github.com/TonyChen56/WeChatRobot)  PC版微信机器人
+* [DKWechatHelper](https://github.com/DKJone/DKWechatHelper) 不止于抢红包，功能丰富的微信插件
+* [精易论坛](https://bbs.125.la/)
 
 ## 财富
 
