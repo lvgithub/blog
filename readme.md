@@ -105,6 +105,10 @@
 * [uvbook](https://github.com/nikhilm/uvbook)
 * [KCP - A Fast and Reliable ARQ Protocol (快速可靠传输协议)](https://github.com/skywind3000/kcp)
 
+## Python
+
+* [TrWebOCR](https://github.com/alisen39/TrWebOCR)  开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口
+
 ## Linux 
 
 * [Docker —— 从入门到实践](https://yeasy.gitbook.io/docker_practice/)
