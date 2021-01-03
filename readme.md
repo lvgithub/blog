@@ -56,11 +56,14 @@
 * [p-limit](https://github.com/sindresorhus/p-limit/blob/master/index.js) promise 并发限制
 * [es6-promise-pool](https://github.com/timdp/es6-promise-pool#readme) promise 并发限制
 * [asyncPool](https://github.com/rxaviers/async-pool#readme) promise 并发限制
-* [Ajv: Another JSON Schema Validator ](https://github.com/epoberezkin/ajv)Ajv: Another JSON Schema Validator
+* [Ajv: Another JSON Schema Validator ](https://github.com/epoberezkin/ajv) Ajv: Another JSON Schema Validator
 * [opossum](https://nodeshift.dev/opossum/) 熔断器 
 * [hystrixjs](https://www.npmjs.com/package/hystrixjs) 熔断器 
 * [brakes](https://github.com/awolden/brakes) 熔断器 
 * [node-notifier](https://github.com/mikaelbr/node-notifier#readme)  跨平台的提示
+* [lowdb](https://github.com/typicode/lowdb) lowdb is a small local JSON database powered by Lodas
+* [shelljs](https://github.com/shelljs/shelljs)  Portable Unix shell commands for Node.js
+* [p-queue](https://github.com/sindresorhus/p-queue#readme)  Promise queue with concurrency control
 
 
 ## FE 文章
