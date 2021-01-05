@@ -141,6 +141,23 @@
 * [精易论坛](https://bbs.125.la/)
 * [IOS逆向](https://iosre.com/)
 
+## 图像处理
+
+* [Node-Media-Server](https://github.com/illuspas/Node-Media-Server/blob/master/README_CN.md) A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
+* [opencv](https://github.com/opencv/opencv)  开源计算机视觉库
+* [opencv-python](https://github.com/skvark/opencv-python)
+* [haarcascades ](https://github.com/opencv/opencv/tree/master/data/haarcascades)  人脸分类器
+* [OpenCV: 图片人脸识别教程](https://zhuanlan.zhihu.com/p/28489649)
+* [ffmpeg](https://ffmpeg.org/)  视频处理
+* [FFmpeg 视频处理入门教程](https://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)
+* [dlib](https://github.com/davisking/dlib)  机器学习和数据分析应用的工具包
+
+* [十行Python代码实现人脸识别 文章](https://zhuanlan.zhihu.com/p/66368987)
+
+* [十行Python代码完成人脸识别 视频](https://www.bilibili.com/video/av52684947)
+
+    
+
 ## 财富
 
 * [程序员如何优雅的挣零花钱？](https://github.com/easychen/howto-make-more-money/)
