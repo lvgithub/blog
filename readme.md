@@ -155,8 +155,7 @@
 * [十行Python代码实现人脸识别 文章](https://zhuanlan.zhihu.com/p/66368987)
 
 * [十行Python代码完成人脸识别 视频](https://www.bilibili.com/video/av52684947)
-
-    
+* [Face Recognition 人脸识别](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
 
 ## 财富
 
