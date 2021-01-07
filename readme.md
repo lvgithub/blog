@@ -64,6 +64,7 @@
 * [lowdb](https://github.com/typicode/lowdb) lowdb is a small local JSON database powered by Lodas
 * [shelljs](https://github.com/shelljs/shelljs)  Portable Unix shell commands for Node.js
 * [p-queue](https://github.com/sindresorhus/p-queue#readme)  Promise queue with concurrency control
+* [meteor](https://github.com/meteor/meteor) Meteor, the JavaScript App Platform
 
 
 ## FE 文章
@@ -111,6 +112,8 @@
 ## Python
 
 * [TrWebOCR](https://github.com/alisen39/TrWebOCR)  开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口
+* [超棒 NumPy 可视化教程](https://zhuanlan.zhihu.com/p/73785485)
+* [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model)  python模拟登陆一些大型网站
 
 ## Linux 
 
@@ -140,7 +143,7 @@
 * [DKWechatHelper](https://github.com/DKJone/DKWechatHelper) 不止于抢红包，功能丰富的微信插件
 * [精易论坛](https://bbs.125.la/)
 * [IOS逆向](https://iosre.com/)
-
+alias t="open -a typora"
 ## 图像处理
 
 * [Node-Media-Server](https://github.com/illuspas/Node-Media-Server/blob/master/README_CN.md) A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
