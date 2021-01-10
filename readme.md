@@ -14,15 +14,16 @@
 * [tampermonkey](http://www.tampermonkey.net/) 油猴🐒脚本管理器，非常牛逼的，让你自定义各种神奇
 * [Mob](https://github.com/zenghongtu/Mob) 喜马拉雅桌面客户端
 * [aText](https://www.trankynam.com/atext/) 提高文字录入效率 aText
-* [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) Mac版微信小助手
-* [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop) iOS版微信抢红包插件
-* [jd_seckill](https://github.com/huanghyw/jd_seckill) 京东茅台抢购，不支持其他商品！
-* [jjb](https://github.com/sunoj/jjb) 一个帮助你自动申请京东价格保护的chrome拓展
 * [crowdcafe](http://magnet.crowdcafe.com/) Mac端最纯粹的分屏软件，办公必备窗口管理工具！
 * [smallpdf](https://smallpdf.com/cn) 功能一应俱全、简单好用的线上 PDF 工具
 * [inlets](https://github.com/inlets/inlets/blob/master/README_CN.md) 将你的本地服务暴露到公网。
 * [tui.image-editor](https://github.com/nhn/tui.image-editor) 全功能照片图像编辑器使用画布。这真的很简单，而且它配有很好的过滤器
-* [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) H5 Page Maker, H5 Editor. | 致力于提供一套简单方便、专业可靠、无限可能的H5/PC页面制作解决方案.
+* [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) H5 Page Maker, H5 Editor. | 致力于提供一套简单方便、专业可靠、无限可能的H5/PC页面制作解决方案
+* [韭菜盒子](https://github.com/LeekHub/leek-fund) 韭菜盒子——VSCode 里也可以看股票 & 基金实时数据，做最好用的投资插件 
+* [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) Mac版微信小助手
+* [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop) iOS版微信抢红包插件
+* [jd_seckill](https://github.com/huanghyw/jd_seckill) 京东茅台抢购，不支持其他商品！
+* [jjb](https://github.com/sunoj/jjb) 一个帮助你自动申请京东价格保护的chrome拓展
 
 ## 工具网站
 * [免费的计算机编程类中文书籍，欢迎投稿](https://github.com/justjavac/free-programming-books-zh_CN)
@@ -32,7 +33,6 @@
 * [计算机专业电子书下载](https://tanqingbo.cn/CSBook001/)
 
 ## Node.JS文章
-
  * [《深入理解Node.js：核心思想与源码分析》](https://github.com/yjhjstz/deep-into-node)
  * [《性能优化技巧》](https://medium.com/zooz-engineering/nodejs-performance-302ff764509a)
  * [《进程间发送socket句柄》](./send_socket/readme.md)
@@ -120,6 +120,7 @@
 ## Python
 
 * [TrWebOCR](https://github.com/alisen39/TrWebOCR)  开源易用的中文离线OCR，识别率媲美大厂，并且提供了易用的web页面及web的接口
+* [chineseocr_lite](https://github.com/ouyanghuiyu/chineseocr_lite) 超轻量级中文ocr，支持竖排文字识别, 支持ncnn推理
 * [超棒 NumPy 可视化教程](https://zhuanlan.zhihu.com/p/73785485)
 * [awesome-python-login-model](https://github.com/Kr1s77/awesome-python-login-model)  python模拟登陆一些大型网站
 
@@ -163,11 +164,17 @@ alias t="open -a typora"
 * [dlib](https://github.com/davisking/dlib)  机器学习和数据分析应用的工具包
 * [Face Recognition 人脸识别](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
 * [tesseract.js](https://github.com/naptha/tesseract.js) 100多种语言的纯Javascript OCR
+* [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)一个类似MNIST的时尚产品数据库。基准
   
 `Articles`
+* [面向初学者的OpenCV-Python教程](http://codec.wang/#/opencv/)
 * [十行Python代码实现人脸识别 文章](https://zhuanlan.zhihu.com/p/66368987)
 * [十行Python代码完成人脸识别 视频](https://www.bilibili.com/video/av52684947)
 * [OpenCV: 图片人脸识别教程](https://zhuanlan.zhihu.com/p/28489649)
+
+## Golang
+* [go-zero ](https://github.com/tal-tech/go-zero) 一个集成了各种工程实践的 web 和 rpc 框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。
+
 ## 算法
 * [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 
