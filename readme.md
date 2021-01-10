@@ -50,7 +50,7 @@
  * [《一种改进Node.js调试体验工具》](https://github.com/GoogleChromeLabs/ndb)
  * [《timer的优化故事》](https://github.com/hustxiaoc/node.js/issues/10)
  * [《Fast properties in V8》](https://v8.dev/blog/fast-properties)
-
+ * [Node.js 最佳实践](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.chinese.md)
 ## Node.js包
 
 * [node-lru-cache](https://github.com/isaacs/node-lru-cache) LRU(最近最少使用)内存缓存实现，大幅提高接口吞吐量
