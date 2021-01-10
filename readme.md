@@ -1,3 +1,6 @@
+#! https://zhuanlan.zhihu.com/p/343176618
+# 日常积累技术方面知识(欢迎投稿)
+
 ## 通用文章
 * [免费计算机书籍汇总](https://github.com/ruanyf/free-books)
 * [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
@@ -6,22 +9,27 @@
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
 
 ## 工具
-* [git 短别名提高效率](./git/alias.md)
-* [git-file-history 快速浏览历史提交记录](https://github.com/pomber/git-history)
-* [油猴🐒脚本管理器，非常牛逼的，让你自定义各种神奇](http://www.tampermonkey.net/)
-* [Mob - 一个高颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux](https://github.com/zenghongtu/Mob)
-* [提高文字录入效率 aText](https://www.trankynam.com/atext/)
-* [Mac版微信小助手](https://github.com/MustangYM/WeChatExtension-ForMac)
-* [iOS版微信抢红包插件](https://github.com/buginux/WeChatRedEnvelop)
-* [京东茅台抢购，不支持其他商品！愿大家与黄牛站在同一个起跑线，公平的参与这场抢茅大赛](https://github.com/huanghyw/jd_seckill)
-* [一个帮助你自动申请京东价格保护的chrome拓展](https://github.com/sunoj/jjb)
-* [Mac端最纯粹的分屏软件，办公必备窗口管理工具！](http://magnet.crowdcafe.com/)
-* [功能一应俱全、简单好用的线上 PDF 工具](https://smallpdf.com/cn)
+* [git alias](./git/alias.md) 短别名提高效率
+* [git-file-history](https://github.com/pomber/git-history) 快速浏览历史提交记录
+* [tampermonkey](http://www.tampermonkey.net/) 油猴🐒脚本管理器，非常牛逼的，让你自定义各种神奇
+* [Mob](https://github.com/zenghongtu/Mob) 喜马拉雅桌面客户端
+* [aText](https://www.trankynam.com/atext/) 提高文字录入效率 aText
+* [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) Mac版微信小助手
+* [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop) iOS版微信抢红包插件
+* [jd_seckill](https://github.com/huanghyw/jd_seckill) 京东茅台抢购，不支持其他商品！
+* [jjb](https://github.com/sunoj/jjb) 一个帮助你自动申请京东价格保护的chrome拓展
+* [crowdcafe](http://magnet.crowdcafe.com/) Mac端最纯粹的分屏软件，办公必备窗口管理工具！
+* [smallpdf](https://smallpdf.com/cn) 功能一应俱全、简单好用的线上 PDF 工具
+* [inlets](https://github.com/inlets/inlets/blob/master/README_CN.md) 将你的本地服务暴露到公网。
+* [tui.image-editor](https://github.com/nhn/tui.image-editor) 全功能照片图像编辑器使用画布。这真的很简单，而且它配有很好的过滤器
+* [h5-Dooring](https://github.com/MrXujiang/h5-Dooring) H5 Page Maker, H5 Editor. | 致力于提供一套简单方便、专业可靠、无限可能的H5/PC页面制作解决方案.
 
 ## 工具网站
-
+* [免费的计算机编程类中文书籍，欢迎投稿](https://github.com/justjavac/free-programming-books-zh_CN)
+* [分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
 * [常用算法的空间、时间复杂度](https://www.bigocheatsheet.com/)
 * [jsperf 性能测试](https://github.com/jsperf/jsperf.com)
+* [计算机专业电子书下载](https://tanqingbo.cn/CSBook001/)
 
 ## Node.JS文章
 
@@ -145,20 +153,23 @@
 * [IOS逆向](https://iosre.com/)
 alias t="open -a typora"
 ## 图像处理
-
+`Libs`
+* [ffmpeg](https://ffmpeg.org/) 视频处理
 * [Node-Media-Server](https://github.com/illuspas/Node-Media-Server/blob/master/README_CN.md) A Node.js implementation of RTMP/HTTP-FLV/WS-FLV/HLS/DASH/MP4 Media Server
 * [opencv](https://github.com/opencv/opencv)  开源计算机视觉库
 * [opencv-python](https://github.com/skvark/opencv-python)
 * [haarcascades ](https://github.com/opencv/opencv/tree/master/data/haarcascades)  人脸分类器
-* [OpenCV: 图片人脸识别教程](https://zhuanlan.zhihu.com/p/28489649)
-* [ffmpeg](https://ffmpeg.org/)  视频处理
 * [FFmpeg 视频处理入门教程](https://www.ruanyifeng.com/blog/2020/01/ffmpeg.html)
 * [dlib](https://github.com/davisking/dlib)  机器学习和数据分析应用的工具包
-
-* [十行Python代码实现人脸识别 文章](https://zhuanlan.zhihu.com/p/66368987)
-
-* [十行Python代码完成人脸识别 视频](https://www.bilibili.com/video/av52684947)
 * [Face Recognition 人脸识别](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
+* [tesseract.js](https://github.com/naptha/tesseract.js) 100多种语言的纯Javascript OCR
+  
+`Articles`
+* [十行Python代码实现人脸识别 文章](https://zhuanlan.zhihu.com/p/66368987)
+* [十行Python代码完成人脸识别 视频](https://www.bilibili.com/video/av52684947)
+* [OpenCV: 图片人脸识别教程](https://zhuanlan.zhihu.com/p/28489649)
+## 算法
+* [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
 
 ## 财富
 

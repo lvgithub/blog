@@ -1,4 +1,6 @@
+#! https://zhuanlan.zhihu.com/p/343179718
 
+# 通过 git alias 提高效率 
 ## 配置别名
 
 vim ~/.gitconfig
