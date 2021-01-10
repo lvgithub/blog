@@ -75,6 +75,7 @@
 * [p-queue](https://github.com/sindresorhus/p-queue#readme)  Promise queue with concurrency control
 * [meteor](https://github.com/meteor/meteor) Meteor, the JavaScript App Platform
 * [import-http](https://github.com/egoist/import-http) Import modules from URL instead of local node_module
+* [np](https://github.com/sindresorhus/np) A better `npm publish`   
 
 
 ## FE 文章
