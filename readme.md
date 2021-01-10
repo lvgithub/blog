@@ -31,6 +31,7 @@
 * [常用算法的空间、时间复杂度](https://www.bigocheatsheet.com/)
 * [jsperf 性能测试](https://github.com/jsperf/jsperf.com)
 * [计算机专业电子书下载](https://tanqingbo.cn/CSBook001/)
+* [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md) 在你的 README 中获取动态生成的 GitHub 统计信息
 
 ## Node.JS文章
  * [《深入理解Node.js：核心思想与源码分析》](https://github.com/yjhjstz/deep-into-node)
@@ -73,6 +74,7 @@
 * [shelljs](https://github.com/shelljs/shelljs)  Portable Unix shell commands for Node.js
 * [p-queue](https://github.com/sindresorhus/p-queue#readme)  Promise queue with concurrency control
 * [meteor](https://github.com/meteor/meteor) Meteor, the JavaScript App Platform
+* [import-http](https://github.com/egoist/import-http) Import modules from URL instead of local node_module
 
 
 ## FE 文章
