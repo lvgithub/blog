@@ -175,7 +175,8 @@ alias t="open -a typora"
 * [OpenCV: 图片人脸识别教程](https://zhuanlan.zhihu.com/p/28489649)
 
 ## Golang
-* [go-zero ](https://github.com/tal-tech/go-zero) 一个集成了各种工程实践的 web 和 rpc 框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验。
+* [go-zero ](https://github.com/tal-tech/go-zero) 一个集成了各种工程实践的 web 和 rpc 框架。通过弹性设计保障了大并发服务端的稳定性，经受了充分的实战检验
+* [hystrix-go](https://github.com/afex/hystrix-go) go 熔断器
 
 ## 算法
 * [LeetCode-Go](https://github.com/halfrost/LeetCode-Go)
