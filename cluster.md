@@ -1,5 +1,6 @@
+#! https://zhuanlan.zhihu.com/p/344798369
 
-## 从Node.Js源码一步步分析，cluster 多次fork一份代码时，如何实现端口重用
+# Node.Js fork一份代码时，如何实现端口重用
 
 * node 启动多个进程的时候，会标记是master、还是child进程
 * 当child进程启动端口监听的时候，listen函数会被hack,然后去master进程注册一个channel用于传递socket
