@@ -1,0 +1,663 @@
+{
+    "code": 0,
+    "message": "",
+    "data": {
+        "pageInfo": {
+            "page": 1,
+            "pageSize": 100,
+            "orderType": "status",
+            "total": 81,
+            "totalPage": 1
+        },
+        "list": [
+            {
+                "uid": 25545233,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "25545233",
+                "avatar": "https://avatar.futunn.com/201709000000048d9c0e4ea32.jpg"
+            },
+            {
+                "uid": 25331781,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "awa¥",
+                "avatar": "https://avatar.futunn.com/2021011608523936760a2a3276a.jpg"
+            },
+            {
+                "uid": 23856637,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23856637",
+                "avatar": "https://avatar.futunn.com/20170900000003c2d5144b1f7.jpg"
+            },
+            {
+                "uid": 17631910,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "IAMLEON",
+                "avatar": "https://avatar.futunn.com/2020113008126445379b51cbabd.jpg"
+            },
+            {
+                "uid": 7448945,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "叶爱平7448945",
+                "avatar": "https://avatar.futunn.com/20171102019966c5df4e21348.jpg"
+            },
+            {
+                "uid": 25378347,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "25378347",
+                "avatar": "https://avatar.futunn.com/20170900000003c2d5144b1f7.jpg"
+            },
+            {
+                "uid": 15214190,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "15214190",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 21778061,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "21778061",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 24587353,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24587353",
+                "avatar": "https://avatar.futunn.com/201709000000048d9c0e4ea32.jpg"
+            },
+            {
+                "uid": 25224032,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "Yann52",
+                "avatar": "https://avatar.futunn.com/20210120085622151501fc1adcd.jpg"
+            },
+            {
+                "uid": 17456281,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "17456281",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 23633191,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23633191",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 24177342,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "虫虫～",
+                "avatar": "https://avatar.futunn.com/2021011908552663771d8aadc30.jpg"
+            },
+            {
+                "uid": 11584635,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "Leo.5",
+                "avatar": "https://avatar.futunn.com/20180903425483bb99751ccbe.jpg"
+            },
+            {
+                "uid": 25283675,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "25283675",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 23946251,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "囫囵",
+                "avatar": "https://avatar.futunn.com/202101180854283598625d45c34.jpg"
+            },
+            {
+                "uid": 24139903,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "lee878",
+                "avatar": "https://avatar.futunn.com/202101180853587105394545198.jpg"
+            },
+            {
+                "uid": 24896846,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24896846",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 24073646,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "自在灬天besos",
+                "avatar": "https://avatar.futunn.com/202101140850052491cf0ca96f2.jpg"
+            },
+            {
+                "uid": 25242545,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "洋572",
+                "avatar": "https://avatar.futunn.com/2021011408500435b4c4eda1504.jpg"
+            },
+            {
+                "uid": 25139183,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "李铭75",
+                "avatar": "https://avatar.futunn.com/2021011408500570cad45dfd74b.jpg"
+            },
+            {
+                "uid": 24568410,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24568410",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 25177818,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "发光小螃蟹",
+                "avatar": "https://avatar.futunn.com/20210113084873770b1aa05fad7.jpg"
+            },
+            {
+                "uid": 23423896,
+                "setup": 0,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "",
+                "avatar": "https://avatar.futunn.com/2021011308486494a5b247136a2.jpg"
+            },
+            {
+                "uid": 24679326,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24679326",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 23855022,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23855022",
+                "avatar": "https://avatar.futunn.com/20170900000003c2d5144b1f7.jpg"
+            },
+            {
+                "uid": 24613996,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24613996",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 25045420,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "25045420",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 14025081,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "Lee.42",
+                "avatar": "https://avatar.futunn.com/20191113050486520b102d1859e.jpg"
+            },
+            {
+                "uid": 24115368,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "bbling2",
+                "avatar": "https://avatar.futunn.com/20210121085734273a2ae70265f.jpg"
+            },
+            {
+                "uid": 23349695,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "树上开花8",
+                "avatar": "https://avatar.futunn.com/2021012108572568029e25a1a9b.jpg"
+            },
+            {
+                "uid": 23500891,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23500891",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 22940785,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "22940785",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 7165948,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "Zac7165948",
+                "avatar": "https://avatar.futunn.com/20171100570805a9db03580ab.jpg"
+            },
+            {
+                "uid": 23650767,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23650767",
+                "avatar": "https://avatar.futunn.com/20170900000003c2d5144b1f7.jpg"
+            },
+            {
+                "uid": 24863207,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24863207",
+                "avatar": "https://avatar.futunn.com/20170900000003c2d5144b1f7.jpg"
+            },
+            {
+                "uid": 23919523,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23919523",
+                "avatar": "https://avatar.futunn.com/201709000000048d9c0e4ea32.jpg"
+            },
+            {
+                "uid": 25370638,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "25370638",
+                "avatar": "https://avatar.futunn.com/201709000000048d9c0e4ea32.jpg"
+            },
+            {
+                "uid": 24360292,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "金丝猫tbn",
+                "avatar": "https://avatar.futunn.com/202101200855834416e7bad63ec.jpg"
+            },
+            {
+                "uid": 25317285,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "儒雅的斯普林格",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 24362285,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24362285",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 23438199,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23438199",
+                "avatar": "https://avatar.futunn.com/20170900000005907d01e3cc5.jpg"
+            },
+            {
+                "uid": 23385110,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23385110",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 24884390,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "刚正的萨莉",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 25118315,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "韶华52",
+                "avatar": "https://avatar.futunn.com/2021011908551318ce73cba1d77.jpg"
+            },
+            {
+                "uid": 17461296,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "苗308",
+                "avatar": "https://avatar.futunn.com/20200720070255771d440da4db6.jpg"
+            },
+            {
+                "uid": 24647803,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "独珈记忆",
+                "avatar": "https://avatar.futunn.com/2021011908546343fb7bb273017.jpg"
+            },
+            {
+                "uid": 22807448,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "22807448",
+                "avatar": "https://avatar.futunn.com/201709000000048d9c0e4ea32.jpg"
+            },
+            {
+                "uid": 23635235,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23635235",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 23269659,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23269659",
+                "avatar": "https://avatar.futunn.com/20170900000005907d01e3cc5.jpg"
+            },
+            {
+                "uid": 23841820,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "文雅的贝克",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 25320990,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "建龙1",
+                "avatar": "https://avatar.futunn.com/2021011808543155e45836b52da.jpg"
+            },
+            {
+                "uid": 24145780,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24145780",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 24527467,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24527467",
+                "avatar": "https://avatar.futunn.com/20170900000003c2d5144b1f7.jpg"
+            },
+            {
+                "uid": 14464389,
+                "setup": 0,
+                "cashin": 1,
+                "stockin": 0,
+                "nick": "WilliamLong",
+                "avatar": "https://avatar.futunn.com/20170900000005907d01e3cc5.jpg"
+            },
+            {
+                "uid": 24624272,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24624272",
+                "avatar": "https://avatar.futunn.com/20170900000003c2d5144b1f7.jpg"
+            },
+            {
+                "uid": 25301865,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "25301865",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 12802349,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "公正的罗德里克",
+                "avatar": "https://avatar.futunn.com/20170900000005907d01e3cc5.jpg"
+            },
+            {
+                "uid": 25418708,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "二三十岁的青年",
+                "avatar": "https://avatar.futunn.com/201709000000048d9c0e4ea32.jpg"
+            },
+            {
+                "uid": 17949576,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "Miya????",
+                "avatar": "https://avatar.futunn.com/2021011908546773aae6def19cd.jpg"
+            },
+            {
+                "uid": 22748296,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "22748296",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 16824598,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "16824598",
+                "avatar": "https://avatar.futunn.com/201709000000048d9c0e4ea32.jpg"
+            },
+            {
+                "uid": 23791673,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "王浩643",
+                "avatar": "https://avatar.futunn.com/20210117085340470bd5d0299d4.jpg"
+            },
+            {
+                "uid": 17231846,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "轻松熊7",
+                "avatar": "https://avatar.futunn.com/202007070693029655c81c90ed4.jpg"
+            },
+            {
+                "uid": 23725240,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23725240",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 25301915,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "25301915",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 24734406,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24734406",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 24620657,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "24620657",
+                "avatar": "https://avatar.futunn.com/20170900000003c2d5144b1f7.jpg"
+            },
+            {
+                "uid": 22418149,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "22418149",
+                "avatar": "https://avatar.futunn.com/20170900000005907d01e3cc5.jpg"
+            },
+            {
+                "uid": 23706631,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "23706631",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 22825829,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "22825829",
+                "avatar": "https://avatar.futunn.com/20170900000005907d01e3cc5.jpg"
+            },
+            {
+                "uid": 22767043,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "兴奋的克莱尔",
+                "avatar": "https://avatar.futunn.com/201709000000048d9c0e4ea32.jpg"
+            },
+            {
+                "uid": 22320669,
+                "setup": 1,
+                "cashin": 0,
+                "stockin": 0,
+                "nick": "22320669",
+                "avatar": "https://avatar.futunn.com/20170900000005907d01e3cc5.jpg"
+            },
+            {
+                "uid": 23464846,
+                "setup": 1,
+                "cashin": 1,
+                "stockin": 0,
+                "nick": "23464846",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 23953269,
+                "setup": 1,
+                "cashin": 1,
+                "stockin": 0,
+                "nick": "23953269",
+                "avatar": "https://avatar.futunn.com/20170900000005907d01e3cc5.jpg"
+            },
+            {
+                "uid": 23289630,
+                "setup": 1,
+                "cashin": 1,
+                "stockin": 0,
+                "nick": "Cool23289630",
+                "avatar": "https://avatar.futunn.com/2021011508516789b3920592a24.jpg"
+            },
+            {
+                "uid": 24977245,
+                "setup": 1,
+                "cashin": 1,
+                "stockin": 0,
+                "nick": "派的未来",
+                "avatar": "https://avatar.futunn.com/20170900000001699d3ce84ad.jpg"
+            },
+            {
+                "uid": 23280096,
+                "setup": 1,
+                "cashin": 1,
+                "stockin": 0,
+                "nick": "照顾的查德",
+                "avatar": "https://avatar.futunn.com/2021012108569338b6715e3b843.jpg"
+            },
+            {
+                "uid": 22305986,
+                "setup": 1,
+                "cashin": 1,
+                "stockin": 0,
+                "nick": "美丽的格吉尔",
+                "avatar": "https://avatar.futunn.com/201709000000021be86b9a94c.jpg"
+            },
+            {
+                "uid": 22319229,
+                "setup": 1,
+                "cashin": 1,
+                "stockin": 0,
+                "nick": "22319229",
+                "avatar": "https://avatar.futunn.com/20170900000005907d01e3cc5.jpg"
+            },
+            {
+                "uid": 22321925,
+                "setup": 1,
+                "cashin": 1,
+                "stockin": 0,
+                "nick": "7yxx",
+                "avatar": "https://avatar.futunn.com/2020112708110551d3827d9aadf.jpg"
+            }
+        ]
+    }
+}
