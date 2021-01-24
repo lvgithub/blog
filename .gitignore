@@ -2,3 +2,5 @@ node_modules
 package*
 *.clinic-doctor*
 test
+
+*test*
