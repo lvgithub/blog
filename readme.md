@@ -147,7 +147,7 @@
 * [并发扣款，如何保证数据的一致性？](https://mp.weixin.qq.com/s?__biz=MjM5ODYxMDA5OQ==&mid=2651962738&idx=1&sn=d2d91a380bad06af9f7b9f7a80db26b3&chksm=bd2d08ae8a5a81b8a7f044af52c5e6e77ec3df2bb4a9c91cd450c3fd932e8dade56afb09f784&scene=21#wechat_redirect)
 
 ## 逆向
-
+* [frida](https://frida.re/) 面向开发人员、逆向工程师和安全研究人员的动态工具工具包
 * [WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac)  Mac微信功能拓展/微信插件/微信小助手
 * [WeChatRedEnvelop](https://github.com/buginux/WeChatRedEnvelop)  iOS版微信抢红包Tweak
 * [WeChat_tweak](https://github.com/dgynfi/WeChat_tweak) iOS版功能最全的微信插件，具备自动抢红包，屏蔽消息和群消息
