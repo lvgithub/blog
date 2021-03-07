@@ -25,7 +25,8 @@
 * [jd_seckill](https://github.com/huanghyw/jd_seckill) 京东茅台抢购，不支持其他商品！
 * [jjb](https://github.com/sunoj/jjb) 一个帮助你自动申请京东价格保护的chrome拓展
 * [google-chrome-old-version](https://www.slimjet.com/chrome/google-chrome-old-version.php) chrome 历史版本下载
-* [Git hooks made easy 🐶 woof!](https://github.com/typicode/husky)  
+* [Git hooks made easy 🐶 woof!](https://github.com/typicode/husky) 
+* [Node.js Open CLI Framework. Built with 💜 by Heroku.](https://github.com/oclif/oclif) 
 ## 工具网站
 * [免费的计算机编程类中文书籍，欢迎投稿](https://github.com/justjavac/free-programming-books-zh_CN)
 * [分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
