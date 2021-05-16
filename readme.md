@@ -1,6 +1,3 @@
-#! https://zhuanlan.zhihu.com/p/343176618
-# 日常积累技术方面知识(欢迎投稿)
-
 ## 通用文章
 * [免费计算机书籍汇总](https://github.com/ruanyf/free-books)
 * [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
@@ -28,6 +25,7 @@
 * [Git hooks made easy 🐶 woof!](https://github.com/typicode/husky) 
 * [Node.js Open CLI Framework. Built with 💜 by Heroku.](https://github.com/oclif/oclif) 
 * [web-clipper](https://github.com/webclipper/web-clipper) 复制网页到各个平台
+* [A tool for writing better scripts](https://github.com/google/zx)
 ## 工具网站
 * [免费的计算机编程类中文书籍，欢迎投稿](https://github.com/justjavac/free-programming-books-zh_CN)
 * [分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
@@ -173,7 +171,6 @@ alias t="open -a typora"
 * [Face Recognition 人脸识别](https://github.com/ageitgey/face_recognition/blob/master/README_Simplified_Chinese.md)
 * [tesseract.js](https://github.com/naptha/tesseract.js) 100多种语言的纯Javascript OCR
 * [fashion-mnist](https://github.com/zalandoresearch/fashion-mnist)一个类似MNIST的时尚产品数据库。基准
-  
 
 `Articles`
 * [面向初学者的OpenCV-Python教程](http://codec.wang/#/opencv/)
