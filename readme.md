@@ -158,7 +158,7 @@
 * [DKWechatHelper](https://github.com/DKJone/DKWechatHelper) 不止于抢红包，功能丰富的微信插件
 * [精易论坛](https://bbs.125.la/)
 * [IOS逆向](https://iosre.com/)
-alias t="open -a typora"
+* [IDEA 破解新招 - 无限重置30天试用期](https://www.exception.site/essay/idea-reset-eval)
 ## 图像处理
 `Libs`
 * [ffmpeg](https://ffmpeg.org/) 视频处理
