@@ -26,6 +26,7 @@
 * [Node.js Open CLI Framework. Built with 💜 by Heroku.](https://github.com/oclif/oclif) 
 * [web-clipper](https://github.com/webclipper/web-clipper) 复制网页到各个平台
 * [A tool for writing better scripts](https://github.com/google/zx)
+* [Homebrew国内源](https://gitee.com/cunkai/HomebrewCN)
 ## 工具网站
 * [免费的计算机编程类中文书籍，欢迎投稿](https://github.com/justjavac/free-programming-books-zh_CN)
 * [分享 GitHub 上有趣、入门级的开源项目](https://github.com/521xueweihan/HelloGitHub)
