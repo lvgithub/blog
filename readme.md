@@ -1,7 +1,7 @@
 ## 通用文章
 * [免费计算机书籍汇总](https://github.com/ruanyf/free-books)
 * [手把手撕LeetCode题目](https://github.com/labuladong/fucking-algorithm)
-* [30 seconds of code](https://www.30secondsofcode.org/)
+* [每个 JavaScript 工程师都应懂的33个概念](https://www.30secondsofcode.org/)
 * [程序员学习路线](https://github.com/kamranahmedse/developer-roadmap)
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
 
