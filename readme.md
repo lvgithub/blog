@@ -4,6 +4,7 @@
 * [每个 JavaScript 工程师都应懂的33个概念](https://www.30secondsofcode.org/)
 * [程序员学习路线](https://github.com/kamranahmedse/developer-roadmap)
 * [LRU原理和Redis实现](https://zhuanlan.zhihu.com/p/34133067)
+* [每天搞定一道前端大厂面试题](https://github.com/Advanced-Frontend/Daily-Interview-Question)
 
 ## 工具
 * [git alias](./git/alias.md) 短别名提高效率
